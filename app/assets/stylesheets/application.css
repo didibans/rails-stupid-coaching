@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+.coach-header {
+  color: red;
+}
+
+.ask-link {
+  color: rgb(64, 101, 64);
+  margin: 10px;
+  display: block;
+}
